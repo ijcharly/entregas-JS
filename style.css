@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    border-spacing: border-box;
+}
+
+
+
+.holi {
+
+    height: 50vh;
+    background-color: black;
+}
