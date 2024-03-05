@@ -1,7 +1,6 @@
 
 
 function clasificarPorEdad(edad,numero) {
-    // Clasificar a la persona en los grupos según su edad
     if (edad <= 18) {
         console.log("Recomendacion #" + numero);
     } else {
@@ -9,7 +8,6 @@ function clasificarPorEdad(edad,numero) {
     }
 }
 
-// Ejemplo de uso con un bucle
 let edadIngresada = prompt("Ingresa tu Edad:");
 let anuncios = prompt("Cuantas recomendaciones quieres ver:");
 // console.log("edadIngresada " + edadIngresada);
